@@ -7,12 +7,6 @@ Description:
     Automated documentation via Swagger UI.
     Containerized with Docker and Docker Compose.
 
-Technologies:
-    FastAPI — For building the REST API.
-    OpenWeatherMap — Source of weather data.
-    Redis — Caching layer.
-    Docker — Environment isolation.
-    Pydantic — Data validation.
 
 ---
 
